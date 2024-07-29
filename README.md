@@ -10,7 +10,8 @@ It involves the evaluation of metrics including:
 - Scalar Curvature
 
 Python version: 3.10.9
-pip install -r requirements.txt
+
+``pip install -r requirements.txt``
 
 
 ### Disclaimer of Warranty
